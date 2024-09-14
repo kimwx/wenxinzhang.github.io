@@ -5,15 +5,11 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if site.author.googlescholar %}
-  <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
-{% endif %}
-
 {% include base_path %}
 
-<!-- New style rendering if publication categories are defined -->
+<!-- If publication categories are defined -->
 {% if site.publication_category %}
-  {% for category in site.publication_category  %}
+  {% for category in site.publication_category %}
     {% assign title_shown = false %}
     {% for post in site.publications reversed %}
       {% if post.category != category[0] %}
@@ -32,5 +28,24 @@ author_profile: true
   {% endfor %}
 {% endif %}
 
+## Selected Publications
 
+### 1. Feature Based Dynamic Matching
+**Authors:** Yilun Chen, Yash Kanoria, Akshit Kumar, and [Your Name]  
+**Status:** Major Revision at *Operations Research*  
+**Conference:** *Proceedings of the ACM Conference on Economics and Computation (EC)*, 2023  
+[**Link to paper**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4451799)
 
+---
+
+### 2. Dynamic Pricing for Reusable Resources: The Power of Two Prices
+**Authors:** Santiago R. Balseiro, Will Ma, and [Your Name]  
+**Status:** Major Revision at *Operations Research*  
+[**Link to paper**](https://arxiv.org/abs/2308.13822)
+
+---
+
+### 3. A Gilmore-Gomory-Type Construction of Integer Programming Value Functions
+**Authors:** Seth Brown, Temitayo Ajayi, Andrew J. Schaefer, and [Your Name]  
+**Published in:** *Operations Research Letters*, 2021  
+[**Link to paper**](https://www.sciencedirect.com/science/article/pii/S0167637721000602)
