@@ -16,7 +16,7 @@ Major Revision at *Operations Research*
 
 ---
 
-### - [Dynamic Pricing for Reusable Resources: The Power of Two Prices.](https://arxiv.org/abs/2308.13822)
+### - [Dynamic Pricing for Reusable Resources: The Power of Two Prices](https://arxiv.org/abs/2308.13822).
 with Santiago R. Balseiro and Will Ma  
 Major Revision at *Operations Research*  
 
@@ -24,6 +24,6 @@ Major Revision at *Operations Research*
 
 ## Peer-reviewed 
 
-### - [A Gilmore-Gomory-Type Construction of Integer Programming Value Functions.](https://www.sciencedirect.com/science/article/pii/S0167637721000602)
+### - [A Gilmore-Gomory-Type Construction of Integer Programming Value Functions](https://www.sciencedirect.com/science/article/pii/S0167637721000602).
 with Seth Brown, Temitayo Ajayi, and Andrew J. Schaefer  
 *Operations Research Letters*, 2021  
