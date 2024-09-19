@@ -10,7 +10,7 @@
 locale                   : "en-US"
 title                    : "Wenxin Zhang"
 title_separator          : "-"
-name                     : &name "Wenxin ZHang"
+name                     : &name "Wenxin Zhang"
 description              : &description "PhD Student, Columbia Business School"
 url                      : "https://wenxinzhang0.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -24,9 +24,7 @@ author:
   avatar           : "profile.png"
   name             : "Wenxin Zhang"
   pronouns         : # example: "she/her"  
-  # bio              : | 
-  #   PhD Student, Columbia Business School,
-  #   Decision, Risk, and Operations
+  bio              : PhD Student, Columbia Business School
   location         : "New York, NY"
   #employer         : "Red Brick University"
   #uri              : # URL
@@ -59,7 +57,7 @@ author:
   #keybase          : # Username
   #instagram        : # Username
   #lastfm           : # Username
-  linkedin         : "https://www.linkedin.com/in/wenxin-zhang-619a2b18b/"
+  linkedin         : wenxin-zhang-619a2b18b
   #mastodon         : # URL
   #medium           : # URL
   pinterest        : # Username
