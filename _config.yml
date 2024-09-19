@@ -12,7 +12,7 @@ title                    : "Wenxin Zhang"
 title_separator          : "-"
 name                     : &name "Wenxin ZHang"
 description              : &description ""
-url                      : https://wenxinzhang0.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://wenxinzhang0.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "wenxinzhang0/wenxinzhang0.github.io"
 
