@@ -5,8 +5,6 @@ permalink: /teaching/
 author_profile: true
 ---
 
-## Teaching Experience
-
 **Columbia University, Teaching Assistant**
 
 - **Revenue and Supply Chain Management**  
