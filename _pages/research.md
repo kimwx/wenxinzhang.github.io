@@ -1,12 +1,12 @@
 ---
 layout: archive
-title: "Research"
+title: ""
 permalink: /research/
 author_profile: true
 ---
 
 
-## Selected Publications
+## Working Papers
 
 ### 1. Feature Based Dynamic Matching
 Yilun Chen, Yash Kanoria, Akshit Kumar, and Wenxin Zhang  
